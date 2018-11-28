@@ -1,0 +1,6 @@
+dist/
+build/
+.idea/
+.vscode/
+*.egg-info/
+
